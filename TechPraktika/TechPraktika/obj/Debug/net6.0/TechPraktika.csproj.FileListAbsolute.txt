@@ -1,0 +1,14 @@
+D:\Технологічна практика\TechPraktika\TechPraktika\bin\Debug\net6.0\TechPraktika.exe
+D:\Технологічна практика\TechPraktika\TechPraktika\bin\Debug\net6.0\TechPraktika.deps.json
+D:\Технологічна практика\TechPraktika\TechPraktika\bin\Debug\net6.0\TechPraktika.runtimeconfig.json
+D:\Технологічна практика\TechPraktika\TechPraktika\bin\Debug\net6.0\TechPraktika.dll
+D:\Технологічна практика\TechPraktika\TechPraktika\bin\Debug\net6.0\TechPraktika.pdb
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.AssemblyInfoInputs.cache
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.AssemblyInfo.cs
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.csproj.CoreCompileInputs.cache
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.dll
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\refint\TechPraktika.dll
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.pdb
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\TechPraktika.genruntimeconfig.cache
+D:\Технологічна практика\TechPraktika\TechPraktika\obj\Debug\net6.0\ref\TechPraktika.dll
